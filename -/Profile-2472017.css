@@ -1,0 +1,58 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}
+h1{
+    color: #00796b;
+    text-align: center;
+}
+img{
+    border-radius: 15px;
+}
+.tabel1{
+    color: #00796b;
+    background-color: #e0f2f1;
+}
+.tabel2{
+    color: #e0f2f1;
+    background-color: #00796b;
+}
+.skill1:hover{
+    color: red;
+    font-size: 17px;
+}
+.skill2:hover{
+    color: red;
+    font-size: 17px;
+}
+.skill3:hover{
+    color: red;
+    font-size: 17px;
+}
+.skill4:hover{
+    color: red;
+    font-size: 17px;
+}
+.project{
+    color:#00796b;
+}
+
+.sosmed1{
+    text-decoration: none;
+}
+.sosmed2{
+    text-decoration: none;
+}
+.sosmed3{
+    text-decoration: none;
+}
+
+.experience1:hover{
+    text-decoration: underline;
+}
+.experience2:hover{
+    text-decoration: underline;
+}
+.experience3:hover{
+    text-decoration: underline;
+}
